@@ -1,0 +1,29 @@
+.carousel {
+  position: relative;
+  display: flex;
+}
+.slide {
+  width: 100%;
+  height: 100%;
+  margin-bottom: -310px;
+  z-index: -1;
+}
+.arrow {
+  position: absolute;
+  color: rgb(53, 52, 52);
+}
+.arrow:hover {
+  cursor: pointer;
+  color: #c7511f;
+}
+.arrow_left {
+  top: 30%;
+  left: 4rem;
+}
+.slide-hidden {
+  display: none;
+}
+.arrow_right {
+  top: 30%;
+  right: 4rem;
+}
