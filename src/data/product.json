@@ -1,0 +1,100 @@
+{
+  "products": [
+    {
+      "id": "12321341",
+      "title": "Gaming accessories",
+      "image": "https://m.media-amazon.com/images/I/61XsKLeku-L._AC_SX296_SY426_FMwebp_QL65_.jpg",
+      "shop": "See more"
+    },
+    {
+      "id": "49538094",
+      "title": "Toys Under $30",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2022/img/Amazon_Exports/XCM_CUTTLE_1469244_2584128_379x304_1X_en_US._SY304_CB609318944_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321342",
+      "title": "Beauty picks",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Beauty_1x._SY304_CB432774351_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321354",
+      "title": "Get fit at home",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/events/GFAH/GWDesktop_SingleImageCard_fitathome_1x._SY304_CB434924743_.jpg",
+      "shop": "Explore now"
+    },
+    {
+      "id": "12321343",
+      "title": "Shop Pet supplies",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Pets_1X._SY304_CB639746743_.jpg",
+      "shop": "See more"
+    },
+    {
+      "id": "12321344",
+      "title": "Electronics",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg",
+      "shop": "See more"
+    },
+    {
+      "id": "12321345",
+      "title": "Health & Personal Care",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2022/February/DashboardCards/GW_CONS_AUS_HPC_HPCEssentials_CatCard_Desktop1x._SY304_CB627424361_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321346",
+      "title": "Home & Kitchen Under $30",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/US-hq/2022/img/Amazon_Exports/XCM_CUTTLE_1469391_2584745_379x304_1X_en_US._SY304_CB609304299_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321347",
+      "title": "New arrivals in Toys",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Toys_1X._SY304_CB639759658_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321348",
+      "title": "Discover fashion trends",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/softlines/shopbop/ingress/2023/March/mp_20230219_ff_desktopsinglecategory_desktop_379x304_1._SY304_CB612639047_.jpg",
+      "shop": "See more"
+    },
+    {
+      "id": "12321349",
+      "title": "For your Fitness Needs",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321350",
+      "title": "Home refresh ideas",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/home/THILGMA/SpringEvent2023/XCM_CUTTLE_1559454_3018199_379x304_1X_en_US._SY304_CB592739737_.jpg",
+      "shop": "Shop kitchen upgrades"
+    },
+    {
+      "id": "12321351",
+      "title": "Shop Laptops & Tablets",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Laptops_379x304_1X_en_US._SY304_CB418608471_.jpg",
+      "shop": "See more"
+    },
+    {
+      "id": "12321352",
+      "title": "Shop activity trackers and smartwatches",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321341",
+      "title": "Create with strip lights",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_StripLighting_379x304_1X_en_US._SY304_CB418597476_.jpg",
+      "shop": "Shop now"
+    },
+    {
+      "id": "12321353",
+      "title": "Kindle E readers",
+      "image": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Desktop_Dash_Kindle_1x._SY304_CB639752818_.jpg",
+      "shop": "Shop now"
+    }
+  ]
+}
