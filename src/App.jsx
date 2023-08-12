@@ -14,7 +14,9 @@ import { Elements } from "@stripe/react-stripe-js";
 import Orders from "./components/Orders/Orders";
 
 function App() {
-  const promise = loadStripe(process.env.React_APP_STRIPE_PUBLISHABLE_KEY);
+  const promise = loadStripe(
+    "pk_test_51NdYjUAFe0BwOSC568lEImWSnpgYxfoxytGTAA3IKPfwZ2JnlhLX8FAXOCoNFEqp5wSVCw4Bt9VODjmHam7fQmJP00yKn9Ip5o"
+  );
   const [{}, dispatch] = useStateValue();
   useEffect(() => {
     auth.onAuthStateChanged((authUser) => {

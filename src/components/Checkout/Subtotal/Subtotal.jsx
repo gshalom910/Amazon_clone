@@ -4,7 +4,7 @@ import { useStateValue } from "../../Provider/StateProvider";
 import { useNavigate } from "react-router-dom";
 
 function Subtotal() {
-  const [{ basket }, dispatch] = useStateValue();
+  const [{ basket, user }, dispatch] = useStateValue();
   const navigate = useNavigate();
   const getBasketTotal = (basket) =>
     basket?.reduce((amount, item) => item.price + amount, 0);
@@ -27,7 +27,17 @@ function Subtotal() {
         thousandSeparator={true}
         prefix={"$"}
       />
-      <button onClick={(e) => navigate("/payment")}>Proceed to Checkout</button>
+      <button
+        onClick={(e) => {
+          if (user) {
+            navigate("/payment");
+          } else {
+            navigate("/login");
+          }
+        }}
+      >
+        Proceed to Checkout
+      </button>
     </div>
   );
 }
