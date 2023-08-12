@@ -35,7 +35,7 @@ function Payment() {
   const getBasketTotal = (basket) =>
     basket?.reduce((amount, item) => item.price + amount, 0);
 
-  console.log("THE SECRET IS >>>", clientSecret);
+  // console.log("THE SECRET IS >>>", clientSecret);
   const handleSubmit = async (event) => {
     event.preventDefault();
     setProcessing(true);
