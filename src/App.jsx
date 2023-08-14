@@ -3,7 +3,7 @@ import "./App.css";
 import Home from "./components/Home/Home";
 import { Route, Routes } from "react-router-dom";
 import SharedLayout from "./components/SharedLayout/SharedLayout";
-import ShopNow from "./components/Pages/ShopNow.jsx";
+import ShopNow from "./components/ShopNow/ShopNow";
 import Checkout from "./components/Checkout/Checkout";
 import Login from "./components/Authentication/Login/Login";
 import { useStateValue } from "./components/Provider/StateProvider";
